@@ -2,9 +2,9 @@
 font-family: 'qshop';
 font-weight: normal;
 font-style: normal;
-src: url('./fonts/qshop.eot');
-src: url('./fonts/qshop.eot?#iefix') format('embedded-opentype'),
-     url('./fonts/qshop.woff') format('woff'),
-     url('./fonts/qshop.ttf') format('truetype'),
-     url('./fonts/qshop.svg#icons') format('svg');
+src: url('http://qshopit.site/css/fonts/qshop.eot');
+src: url('http://qshopit.site/css/fonts/qshop.eot?#iefix') format('embedded-opentype'),
+     url('http://qshopit.site/css/fonts/qshop.woff') format('woff'),
+     url('http://qshopit.site/css/fonts/qshop.ttf') format('truetype'),
+     url('http://qshopit.site/css/fonts/qshop.svg#icons') format('svg');
 }
