@@ -1,0 +1,10 @@
+@font-face {
+font-family: 'qshop';
+font-weight: normal;
+font-style: normal;
+src: url('./fonts/qshop.eot');
+src: url('./fonts/qshop.eot?#iefix') format('embedded-opentype'),
+     url('./fonts/qshop.woff') format('woff'),
+     url('./fonts/qshop.ttf') format('truetype'),
+     url('./fonts/qshop.svg#icons') format('svg');
+}
