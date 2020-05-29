@@ -475,20 +475,6 @@ header {
 	white-space: nowrap;
 }
 
-/* BACK TO TOP */
-.back_top {
-	overflow: hidden;
-	clear: both;
-	padding: 2rem 0;
-	text-align: center;
-}
-
-.back_top a {
-	font-weight: 500;
-	color: #666;
-}
-
-
 /* MOBILE */
 @media only screen and (max-width: 767px) {
 
@@ -497,8 +483,7 @@ header {
 	}
 
 	#sidebar,
-	.faq_q::before,
-	.back_top {
+	.faq_q::before{
 		display: none
 	}
 
