@@ -1,4 +1,4 @@
-body {
+html, body {
 	margin: 0
 }
 
@@ -102,8 +102,8 @@ i.flag_GB {
 	font-weight: 400;
 	line-height: 1.6;
 	background: #eff0f5;
-	width: 100%;
-	max-width: 1399px;
+	/*width: 100%;
+	max-width: 1399px;*/
 	color: #212121;
 	clear: both;
 	overflow: hidden;
